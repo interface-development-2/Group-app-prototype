@@ -12,11 +12,15 @@ Here is a list of my primary skills:
 * Sleeping
 * Gamerguy
 
+#### Contacts & Social Media
+
+* [:smile: :computer:] My homepage(https://github.com/JohnB19)
+
 ### Jack Galipeault
 
 My name is **Jack Galipeault**. I'm 19 and from Toronto. I'm currently in the second year of George Brown College's Interaction Design & Development program.
 
-Below is a short list of a few of my favourite movies. 
+Below is a short list of a few of my favourite movies.
 * The Departed
 * Kill Bill Vol. 1, 2
 * Goodfellas
