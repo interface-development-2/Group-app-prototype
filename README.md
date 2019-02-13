@@ -21,7 +21,3 @@ Below is a short list of a few of my favourite movies.
 * Kill Bill Vol. 1, 2
 * Goodfellas
 * Hot Fuzz
-
-#### Contact 
-
-* [:globe_with_meridians: GitHub](https://github.com/jackgalipeault)
